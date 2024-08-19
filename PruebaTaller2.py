@@ -1,3 +1,5 @@
 #PruebTaller2
 #Bienvenido!
-print("Hola mundo")
+print("Hola world")
+x = 2
+lol = 1 * x
